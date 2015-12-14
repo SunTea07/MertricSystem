@@ -1,0 +1,9 @@
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\bin\Debug\MertricSystem.exe.config
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\obj\Debug\MertricSystem.csprojResolveAssemblyReference.cache
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\bin\Debug\MertricSystem.exe
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\bin\Debug\MertricSystem.pdb
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\obj\Debug\MertricSystem.exe
+c:\users\margie\documents\visual studio 2012\Projects\MertricSystem\MertricSystem\obj\Debug\MertricSystem.pdb
+G:\MertricSystem\MertricSystem\bin\Debug\MertricSystem.exe.config
+G:\MertricSystem\MertricSystem\obj\Debug\MertricSystem.exe
+G:\MertricSystem\MertricSystem\obj\Debug\MertricSystem.pdb
